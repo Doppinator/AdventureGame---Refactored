@@ -1,0 +1,44 @@
+D:\Dev Testing\AdventureGame\bin\Debug\net6.0\AdventureGame.exe
+D:\Dev Testing\AdventureGame\bin\Debug\net6.0\AdventureGame.deps.json
+D:\Dev Testing\AdventureGame\bin\Debug\net6.0\AdventureGame.runtimeconfig.json
+D:\Dev Testing\AdventureGame\bin\Debug\net6.0\AdventureGame.dll
+D:\Dev Testing\AdventureGame\bin\Debug\net6.0\AdventureGame.pdb
+D:\Dev Testing\AdventureGame\obj\Debug\net6.0\AdventureGame.csproj.AssemblyReference.cache
+D:\Dev Testing\AdventureGame\obj\Debug\net6.0\AdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev Testing\AdventureGame\obj\Debug\net6.0\AdventureGame.AssemblyInfoInputs.cache
+D:\Dev Testing\AdventureGame\obj\Debug\net6.0\AdventureGame.AssemblyInfo.cs
+D:\Dev Testing\AdventureGame\obj\Debug\net6.0\AdventureGame.csproj.CoreCompileInputs.cache
+D:\Dev Testing\AdventureGame\obj\Debug\net6.0\AdventureGame.dll
+D:\Dev Testing\AdventureGame\obj\Debug\net6.0\refint\AdventureGame.dll
+D:\Dev Testing\AdventureGame\obj\Debug\net6.0\AdventureGame.pdb
+D:\Dev Testing\AdventureGame\obj\Debug\net6.0\AdventureGame.genruntimeconfig.cache
+D:\Dev Testing\AdventureGame\obj\Debug\net6.0\ref\AdventureGame.dll
+D:\Dev Testing\AdventureGame - Refactored\obj\Debug\net6.0\AdventureGame.csproj.AssemblyReference.cache
+D:\Dev Testing\AdventureGame - Refactored\obj\Debug\net6.0\AdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev Testing\AdventureGame - Refactored\obj\Debug\net6.0\AdventureGame.AssemblyInfoInputs.cache
+D:\Dev Testing\AdventureGame - Refactored\obj\Debug\net6.0\AdventureGame.AssemblyInfo.cs
+D:\Dev Testing\AdventureGame - Refactored\obj\Debug\net6.0\AdventureGame.csproj.CoreCompileInputs.cache
+D:\Dev Testing\AdventureGame - Refactored\obj\Debug\net6.0\AdventureGame.dll
+D:\Dev Testing\AdventureGame - Refactored\obj\Debug\net6.0\refint\AdventureGame.dll
+D:\Dev Testing\AdventureGame - Refactored\obj\Debug\net6.0\AdventureGame.pdb
+D:\Dev Testing\AdventureGame - Refactored\bin\Debug\net6.0\AdventureGame.exe
+D:\Dev Testing\AdventureGame - Refactored\bin\Debug\net6.0\AdventureGame.deps.json
+D:\Dev Testing\AdventureGame - Refactored\bin\Debug\net6.0\AdventureGame.runtimeconfig.json
+D:\Dev Testing\AdventureGame - Refactored\bin\Debug\net6.0\AdventureGame.dll
+D:\Dev Testing\AdventureGame - Refactored\bin\Debug\net6.0\AdventureGame.pdb
+D:\Dev Testing\AdventureGame - Refactored\obj\Debug\net6.0\AdventureGame.genruntimeconfig.cache
+D:\Dev Testing\AdventureGame - Refactored\obj\Debug\net6.0\ref\AdventureGame.dll
+G:\NET\AdventureGame - Refactored\bin\Debug\net6.0\AdventureGame.exe
+G:\NET\AdventureGame - Refactored\bin\Debug\net6.0\AdventureGame.deps.json
+G:\NET\AdventureGame - Refactored\bin\Debug\net6.0\AdventureGame.runtimeconfig.json
+G:\NET\AdventureGame - Refactored\bin\Debug\net6.0\AdventureGame.dll
+G:\NET\AdventureGame - Refactored\bin\Debug\net6.0\AdventureGame.pdb
+G:\NET\AdventureGame - Refactored\obj\Debug\net6.0\AdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+G:\NET\AdventureGame - Refactored\obj\Debug\net6.0\AdventureGame.AssemblyInfoInputs.cache
+G:\NET\AdventureGame - Refactored\obj\Debug\net6.0\AdventureGame.AssemblyInfo.cs
+G:\NET\AdventureGame - Refactored\obj\Debug\net6.0\AdventureGame.csproj.CoreCompileInputs.cache
+G:\NET\AdventureGame - Refactored\obj\Debug\net6.0\AdventureGame.dll
+G:\NET\AdventureGame - Refactored\obj\Debug\net6.0\refint\AdventureGame.dll
+G:\NET\AdventureGame - Refactored\obj\Debug\net6.0\AdventureGame.pdb
+G:\NET\AdventureGame - Refactored\obj\Debug\net6.0\AdventureGame.genruntimeconfig.cache
+G:\NET\AdventureGame - Refactored\obj\Debug\net6.0\ref\AdventureGame.dll
