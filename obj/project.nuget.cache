@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "y7RiNZyq+ZBr4kEr7BsCuzx9nEJgBjs0sQVFvn7EAFbGL1NtKmdEnMq86ok1ugsXHK+jtKI7EHZ80qN+0ZHjaA==",
+  "dgSpecHash": "s9RM1a2f20T91MrKcekPhb7pv/XmDzWoeGlBTz9frYoae9v0bRemvBL8cP6ITFQlkdBNSk3oVb5hS7PxB0kSiQ==",
   "success": true,
-  "projectFilePath": "G:\\NET\\AdventureGame - Refactored\\AdventureGame.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Volumes/Working/Dev/AdventureGame---Refactored/AdventureGame.csproj",
+  "expectedPackageFiles": [
+    "/Users/johndopping/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "/Users/johndopping/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "/Users/johndopping/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.28/microsoft.netcore.app.host.osx-arm64.6.0.28.nupkg.sha512"
+  ],
   "logs": []
 }
